@@ -2,7 +2,12 @@ hello world
 
 ghggjgjjjgjj
  changed it
+<<<<<<< HEAD
 ok done
 third one
 fourth commit
  
+=======
+ok done  
+push command 
+>>>>>>> refs/remotes/origin/main
