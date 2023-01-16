@@ -11,5 +11,4 @@ fourth commit
 ok done  
 push command 
 >>>>>>> refs/remotes/origin/mai
-my revert 1 another change 
-
+my revert 1
